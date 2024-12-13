@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>For My Love ❤️</title>
+  <style>
+    body {
+      background-color: #f1f8e9;
+      color: #1b5e20;
+      font-family: 'Arial', sans-serif;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      color: #d32f2f;
+      font-size: 2.5em;
+    }
+    p {
+      font-size: 1.3em;
+      color: #004d40;
+      line-height: 1.8;
+      margin-top: 20px;
+    }
+    .emojis {
+      font-size: 2em;
+    }
+    .message {
+      background-color: #ffffff;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      width: 80%;
+      margin: 20px auto;
+    }
+    footer {
+      margin-top: 40px;
+      font-size: 1.2em;
+      color: #1976d2;
+    }
+  </style>
+</head>
+<body>
+  <h1>My Dearest, I Miss You 💖</h1>
+  <div class="message">
+    <p>Hey love,</p>
+    <p class="emojis">I just wanted to tell you how much I miss you 😢💘. My days don't feel the same without you, and I can't wait to hold you again 💞. You are always in my heart ❤️, and I love you more than words can express 💫.</p>
+    <p class="emojis">Every moment without you feels like eternity 🕰️, but I know our love will keep us going strong 💪. I hope you feel my love wherever you are 💌.</p>
+    <p class="emojis">Sending you all my love 💕 and missing you so much. Can't wait to see you soon 😘🌹.</p>
+  </div>
+  <footer>
+    <p>❤️ With all my love, Tunmise 💖</p>
+  </footer>
+</body>
+</html>
